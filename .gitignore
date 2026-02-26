@@ -32,12 +32,3 @@ build/
 ### VS Code ###
 .vscode/
 
-
-
-# spring.application.name=lost_found_app
-# server.port=8080
-
-# spring.mongodb.uri=mongodb+srv://karthikeyan13ind_db_user:karthikeyan%4013@lostfoundapp.nyy809w.mongodb.net/lostfound?retryWrites=true&w=majority
-
-# jwt.secret=f9a8c7d6e5b4a3921f0d9c8b7a6e5d4c3b2a1908f7e6d5c4b3a291807f6e5d4c
-# jwt.expiration=3600000
